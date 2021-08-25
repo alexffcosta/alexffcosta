@@ -1,6 +1,4 @@
-### Olá, me chamo Alex Fernandes 👋
-
-- 💻 Hoje trabalho como Técnico de Suporte Pleno na AeC Contact Center - Campina Grande - PB;
+- 💻 Hoje trabalho como Técnico de Suporte Senior na AeC Contact Center - Campina Grande - PB;
 - 📚 Estudando Desenvolvimento Full Stack;
 
 <div>
